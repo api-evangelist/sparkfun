@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SparkFun Electronics is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.sparkfun.com/
+SparkFun Electronics is a global retailer and distributor of electronic components, development boards, sensors, and accessories for makers, hobbyists, and engineers. They provide extensive product documentation, tutorials, and community support, enabling users to prototype and build electronic projects. The company also offers educational resources and a vibrant community forum for sharing ideas and troubleshooting.
+
+**Areas:** Electronics · Retail · Maker · Education · Community
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.sparkfun.com/)
+- [Documentation](https://www.sparkfun.com/documentation)
+- [Support](https://www.sparkfun.com/support)
+- [Terms of service](https://www.sparkfun.com/terms)
+- [Privacy policy](https://www.sparkfun.com/privacy)
+- [GitHub](https://github.com/sparkfun)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/sparkfun/](https://apis.io/providers/sparkfun/).
